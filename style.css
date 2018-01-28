@@ -1,0 +1,58 @@
+body {
+  background-color: gray;
+  font-family: arial;
+}
+
+Header {
+  Padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("/home/yudhistira/Documents/Hacktiv8/Phase-0/Week-1/yanuaryudhistira.github.io/website-design-background-1.jpg");
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+nav {
+  background-color: white;
+  text-align: center;
+  margin-top: 50px;
+
+}
+
+nav ul li{
+  font-size: 18px;
+  display: inline;
+  margin: 30px;
+
+}
+
+main {
+  text-align: center;
+  margin-top: 50px;
+}
+
+main .photo {
+  display: inline-block;
+  border: 3px solid black;
+  padding: 0;
+  margin: 0;
+}
+
+main .info {
+  color: white;
+  font-weight: bold;
+}
+
+footer {
+  text-align: left;
+  margin-top: 50px;
+  opacity:
+}
+
+footer .other {
+  font-size: 15px;
+}
+
+.contact {
+  
+}
